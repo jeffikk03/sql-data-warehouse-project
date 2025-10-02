@@ -1,4 +1,5 @@
 📊 Data Warehouse & Analytics Project
+
 Welcome to my Data Warehouse & Analytics Project 🚀
 This repository showcases how to design and build a modern data warehouse, implement ETL pipelines, and create business-ready analytics.
 ________________________________________
